@@ -1,16 +1,34 @@
-## Hi there 👋
+# Roni V
 
-<!--
-**Roni-quant/Roni-quant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Co-founder & Chief Quantitative Researcher @ PulseQ
 
-Here are some ideas to get you started:
+I build systematic trading infrastructure and research frameworks for multi-strategy portfolios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work On
+
+- algorithmic trading systems
+- portfolio allocation algorithms
+- strategy robustness testing
+- automated research pipelines
+
+## Key Projects
+
+### Python Vector Backtesting
+Research framework for fast vectorized strategy testing.
+
+### PulseQ Portfolio Engine
+Infrastructure for running multi-strategy portfolios with capital allocation and risk guardrails.
+
+### Strategy Research
+Experiments in regime detection, portfolio construction and strategy evaluation.
+
+## Tech Stack
+
+Python • Vectorized Backtesting • Quantitative Research • Portfolio Construction • Systematic Trading Infrastructure
+
+## Research Interests
+
+- systematic trading
+- portfolio construction
+- regime detection
+- risk management
