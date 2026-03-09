@@ -1,7 +1,7 @@
-# Roni V
+## Hi, I'm Roni 👋
 
-Co-founder & Chief Quantitative Researcher @ PulseQ  
-Systematic Trading | Portfolio Construction | Quant Research
+**Co-founder & Chief Quantitative Researcher @ PulseQ
+Systematic Trading | Portfolio Construction | Quant Research**
 
 I build systematic trading infrastructure and research systems for multi-strategy portfolios.
 
