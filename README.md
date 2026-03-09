@@ -1,8 +1,9 @@
 # Roni V
 
-Co-founder & Chief Quantitative Researcher @ PulseQ
+Co-founder & Chief Quantitative Researcher @ PulseQ  
+Systematic Trading | Portfolio Construction | Quant Research
 
-I build systematic trading infrastructure and research frameworks for multi-strategy portfolios.
+I build systematic trading infrastructure and research systems for multi-strategy portfolios.
 
 ## What I Work On
 
@@ -14,17 +15,17 @@ I build systematic trading infrastructure and research frameworks for multi-stra
 ## Key Projects
 
 ### Python Vector Backtesting
-Research framework for fast vectorized strategy testing.
+Vectorized research framework for systematic strategy development and backtesting.
 
 ### PulseQ Portfolio Engine
-Infrastructure for running multi-strategy portfolios with capital allocation and risk guardrails.
+Portfolio execution and allocation engine for multi-strategy systematic trading.
 
 ### Strategy Research
-Experiments in regime detection, portfolio construction and strategy evaluation.
+Research experiments in regime detection, portfolio construction, and alpha evaluation.
 
 ## Tech Stack
 
-Python • Vectorized Backtesting • Quantitative Research • Portfolio Construction • Systematic Trading Infrastructure
+Systematic Trading • Portfolio Construction • Quantitative Research • Python • Vectorized Backtesting
 
 ## Research Interests
 
